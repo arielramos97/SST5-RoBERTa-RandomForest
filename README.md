@@ -8,8 +8,8 @@ The dataset (SST-5) comprises 5 classes: negative, somewhat negative, neutral, s
 
 Two implementation approaches were proposed:
 
-• RoBERTa: a transformer model that belongs to deep neural network models.
+• **RoBERTa:** a transformer model that belongs to deep neural network models.
 
-• Random Forest classifier: a meta estimator that fits several decision tree classifiers for improving accuracy and handling over-fitting.
+• **Random Forest classifier:** a meta estimator that fits several decision tree classifiers for improving accuracy and handling over-fitting.
 
 For each approach, the preprocessing of the data and feature extraction will be explained as well as the architecture of the Deep Learning model for RoBERTa. 
